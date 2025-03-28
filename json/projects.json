@@ -4,7 +4,7 @@
     "image": "/img/work-next_chat.jpeg",
     "description": "Chat App created with NextJs and React for the frontend and Firebase for the backend. The page allows you to register/log in and talk to any registered user!",
     "liveLink": "https://next-js-firebase-chat.vercel.app/",
-    "githubLink": "https://github.com/ManukBASS/NextJs-Firebase-Chat",
+    "githubLink": "https://github.com/ManuZarraga/NextJs-Firebase-Chat",
     "tools": ["NEXTJS", "REACT", "MATERIALUI", "FIREBASE"]
   },
   {
@@ -12,7 +12,7 @@
     "image": "/img/work-pit_shop.jpeg",
     "description": "Fullstack e-commerce, created using React and Material UI for the Frontend, Firebase for the Backend and integrated with Mercado Pago.",
     "liveLink": "https://pit-shop-enhanced.vercel.app/login",
-    "githubLink": "https://github.com/ManukBASS/Pit-Shop-Enhanced",
+    "githubLink": "https://github.com/ManuZarraga/Pit-Shop-Enhanced",
     "tools": ["REACT", "MATERIALUI", "FIREBASE"]
   },
   {
@@ -20,7 +20,7 @@
     "image": "/img/work-miusik-enhanced.jpeg",
     "description": "Miusik is the best platform to play music! Listen to your favorite artists, save your favorite songs and create your own playlists!",
     "liveLink": "https://miusik-enhanced.vercel.app/",
-    "githubLink": "https://github.com/ManukBASS/Miusik-Enhanced",
+    "githubLink": "https://github.com/ManuZarraga/Miusik-Enhanced",
     "tools": ["NEXTJS", "REACT", "TYPESCRIPT", "MATERIALUI", "SUPABASE"]
   },
   {
@@ -28,14 +28,14 @@
     "image": "/img/work-to_do_list.jpeg",
     "description": "A simple task list that allows you to add reminders that persist in each user's local memory",
     "liveLink": "https://to-do-list-7wsm.vercel.app/",
-    "githubLink": "https://github.com/ManukBASS/To-Do-List",
+    "githubLink": "https://github.com/ManuZarraga/To-Do-List",
     "tools": ["REACT", "SASS"]
   },
   {
     "title": "Dental Clinic",
     "image": "/img/work-clinica.jpeg",
     "description": "CRUD app for a dental clinic. It allows you to call the Java API to view, create, edit or delete clinic patients.",
-    "githubLink": "https://github.com/ManukBASS/Clinica_Odontologica",
+    "githubLink": "https://github.com/ManuZarraga/Clinica_Odontologica",
     "tools": ["REACT", "CSS3", "JAVA", "SPRING"]
   },
 
@@ -44,7 +44,7 @@
     "image": "/img/work-space_tourism.jpeg",
     "description": "Space Tourism is a challenge from Frontend Mentor, whose proposal was to make a page with HTML, CSS and JS. I chose to do it with React and Sass to learn more",
     "liveLink": "https://space-tourism-seven-nu.vercel.app/",
-    "githubLink": "https://github.com/ManukBASS/Space_Tourism",
+    "githubLink": "https://github.com/ManuZarraga/Space_Tourism",
     "tools": ["REACT", "SASS"]
   }
 ]

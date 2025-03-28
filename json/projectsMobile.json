@@ -3,14 +3,14 @@
     "title": "Pokedex",
     "image": "/img/mobile_work_pokedex.png",
     "description": "Your own PokeDex at your fingertips. See in detail the statistics of all existing Pokemon and save your favorites!",
-    "githubLink": "https://github.com/ManukBASS/PokedexReactNative",
+    "githubLink": "https://github.com/ManuZarraga/PokedexReactNative",
     "tools": ["REACT", "ANDROID"]
   },
   {
     "title": "Bank-Z",
     "image": "/img/mobile_work_bankz.png",
     "description": "Bank Z is your trusted Home Banking! Enter or Withdraw cash, copy your data to the clipboard and review your recent activity!",
-    "githubLink": "https://github.com/ManukBASS/Bank-Z",
+    "githubLink": "https://github.com/ManuZarraga/Bank-Z",
     "tools": ["REACT", "FIREBASE", "ANDROID"]
   },
   {

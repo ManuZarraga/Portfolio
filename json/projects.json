@@ -32,13 +32,19 @@
     "tools": ["REACT", "SASS"]
   },
   {
-    "title": "Dental Clinic",
-    "image": "/img/work-clinica.jpeg",
-    "description": "CRUD app for a dental clinic. It allows you to call the Java API to view, create, edit or delete clinic patients.",
-    "githubLink": "https://github.com/ManuZarraga/Clinica_Odontologica",
-    "tools": ["REACT", "CSS3", "JAVA", "SPRING"]
+    "title": "Cardiology Clinic",
+    "image": "/img/work-cardiologia.jpeg",
+    "description": "Built with React and Node.js, it allows patients to book visits and administrators to manage schedules, confirmations and cancellations via a secure API.",
+    "githubLink": "https://github.com/ManuZarraga/TPO-Aplicaciones-Interactivas",
+    "tools": [
+      "REACT",
+      "CSS3",
+      "NODEJS",
+      "postgresql",
+      "typescript",
+      "sequelize"
+    ]
   },
-
   {
     "title": "Space Tourism",
     "image": "/img/work-space_tourism.jpeg",

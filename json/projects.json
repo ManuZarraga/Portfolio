@@ -1,11 +1,17 @@
 [
   {
-    "title": "Next Chat",
-    "image": "/img/work-next_chat.jpeg",
-    "description": "Chat App created with NextJs and React for the frontend and Firebase for the backend. The page allows you to register/log in and talk to any registered user!",
-    "liveLink": "https://next-js-firebase-chat.vercel.app/",
-    "githubLink": "https://github.com/ManuZarraga/NextJs-Firebase-Chat",
-    "tools": ["NEXTJS", "REACT", "MATERIALUI", "FIREBASE"]
+    "title": "Cardiology Clinic",
+    "image": "/img/work-cardiologia.jpeg",
+    "description": "Built with React and Node.js, it allows patients to book visits and administrators to manage schedules, confirmations and cancellations via a secure API.",
+    "githubLink": "https://github.com/ManuZarraga/TPO-Aplicaciones-Interactivas",
+    "tools": [
+      "REACT",
+      "CSS3",
+      "NODEJS",
+      "postgresql",
+      "typescript",
+      "sequelize"
+    ]
   },
   {
     "title": "F1 E-Commerce",
@@ -32,18 +38,12 @@
     "tools": ["REACT", "SASS"]
   },
   {
-    "title": "Cardiology Clinic",
-    "image": "/img/work-cardiologia.jpeg",
-    "description": "Built with React and Node.js, it allows patients to book visits and administrators to manage schedules, confirmations and cancellations via a secure API.",
-    "githubLink": "https://github.com/ManuZarraga/TPO-Aplicaciones-Interactivas",
-    "tools": [
-      "REACT",
-      "CSS3",
-      "NODEJS",
-      "postgresql",
-      "typescript",
-      "sequelize"
-    ]
+    "title": "Next Chat",
+    "image": "/img/work-next_chat.jpeg",
+    "description": "Chat App created with NextJs and React for the frontend and Firebase for the backend. The page allows you to register/log in and talk to any registered user!",
+    "liveLink": "https://next-js-firebase-chat.vercel.app/",
+    "githubLink": "https://github.com/ManuZarraga/NextJs-Firebase-Chat",
+    "tools": ["NEXTJS", "REACT", "MATERIALUI", "FIREBASE"]
   },
   {
     "title": "Space Tourism",
